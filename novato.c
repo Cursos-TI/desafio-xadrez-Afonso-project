@@ -25,7 +25,7 @@ int main() {
     } while (b <= 5);
         // movimentação da rainha
 
-        printf("movimentação da rainha");
+        printf("movimentação da rainha\n");
 
         for (int r = 0; r <= 8; r++) {
             printf("Rainha se moveu para a Esquerda\n"); // Imprimindo a movimentação da rainha
