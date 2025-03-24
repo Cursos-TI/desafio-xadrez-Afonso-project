@@ -27,7 +27,7 @@ int main() {
 
         printf("movimentação da rainha\n");
 
-        for (int r = 0; r <= 8; r++) {
+        for (int r = 1; r <= 8; r++) {
             printf("Rainha se moveu para a Esquerda\n"); // Imprimindo a movimentação da rainha
         }
     
